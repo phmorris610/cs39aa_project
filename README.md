@@ -1,8 +1,8 @@
 # cs39aa_project_part1 Project Explanation
 The data set I have chosen consists of movie reviews from Rotten Tomatoes. I gleaned the data from Kaggle then trimmed the 1 million plus observations to 10,000; there were some null observations which were also trimmed. The reviews are classified as either Rotten or Fresh, and the goal of this project will be to create a model to predict if the y observation is either Rotten or Fresh (represented in the Review_Type binary vector) with a reasonable degree of confidence. There is also a binary vector of observations denoting either a Top Critic or not a Top Critic, I will also be attempting to predict if the review was created by a Top Critic or not.
-# cs39aa_project_part2 Project Explanation
+# cs39aa_project_part2 Project Explanation 
 The data set is the same, but now the set has been vectorized and tranformed into a one-hot encoded tensor, and run through a Random Forest model. The results were tremendous, but I will need to really dig into this dataset to assess it make sure there is a disparate amount of movies reviewed.
------------------------------------------------------------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------------------------------------------------------
 #WHO ARE TOP CRITICS?
 Top Critic is a designation created to distinguish Tomatometer-approved critics who excel at their craft. Critics selected are well-established, influential, and prolific; they are, in a sense, the cream of the crop. Top Critic status is granted by a set of criteria and a selection panel and cannot be applied for.
 
