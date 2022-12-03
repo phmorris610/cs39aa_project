@@ -25,5 +25,5 @@ Consistent web traffic with at least five million visits over six months
 500k video subscribers
 For podcasts, at least 1k ratings and 4 stars on Apple Podcasts
 
-#Project Part Three Explanation
+# Project Part Three Explanation
 This is the part of the project where I make an attempt at a Neural Net; I decided to build my own Neural Net with Keras Tensorflow. I had alot of fun attempting different hyperparameters, i.e. Batch Size, activations, number or layers, dropout, flattening, and different epochs, I made an initial foray into a recurent Neural Net but I have a time and hardware constraint so that will have to wait. I was able to put the model through weights and biases, but I will need some clarification as to if this was done correctly.
